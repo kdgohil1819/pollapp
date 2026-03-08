@@ -3,3 +3,19 @@ demovirenv/
 venv/
 env/
 
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
+*.so
+.Python
+
+# Database
+*.sqlite3
+*.db
+db.sqlite3
+
+staticfiles/
